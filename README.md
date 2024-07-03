@@ -1,5 +1,7 @@
 # Hello, I'm Kum Floubert Mua
-<a href="https://www.linkedin.com/in/kumua96">https://www.linkedin.com/in/kumua96</a>
+<a href="https://www.linkedin.com/in/kumua96/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 [Brief Introduction - Remove this afterwards]
 
