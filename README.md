@@ -1,5 +1,5 @@
 # Hello, I'm Kum Floubert Mua
-<a href="https://linkedin.com/kumua96"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kumua96">https://www.linkedin.com/in/kumua96</a>
 
 [Brief Introduction - Remove this afterwards]
 
@@ -15,7 +15,7 @@ My journey has led to proficient academic knowledge and technical skills in netw
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="Dectetion%20Lab%20Mua.docx">Dectetion Lab Mua.docx</a>
+| SIEM Implementation and Log Analysis          | <a href="https://docs.google.com/document/d/1bRblTCBpP8G_pEB_-ZCI-QjQUnbG9EW9/edit">Dectetion Lab Mua.docx</a>
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
