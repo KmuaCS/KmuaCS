@@ -15,7 +15,7 @@ My journey has led to proficient academic knowledge and technical skills in netw
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Dectetion Lab Mua.docx|
+| SIEM Implementation and Log Analysis          | <a href="Dectetion%20Lab%20Mua.docx">Dectetion Lab Mua.docx</a>
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
