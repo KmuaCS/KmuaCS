@@ -17,7 +17,9 @@ My journey has led to proficient academic knowledge and technical skills in netw
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          |<a href="https://example.com/siem-implementation-and-log-analysis">SIEM Implementation and Log Analysis</a>
+| SIEM Implementation and Log Analysis          |<a href="https://docs.google.com/document/d/1bRblTCBpP8G_pEB_-ZCI-QjQUnbG9EW9/edit">
+  <img src="https://img.shields.io/badge/-Google_Docs-4285F4?&style=for-the-badge&logo=google-docs&logoColor=white" />
+</a>
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
