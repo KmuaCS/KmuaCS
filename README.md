@@ -17,7 +17,7 @@ My journey has led to proficient academic knowledge and technical skills in netw
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://docs.google.com/document/u/1/?pli=1">Detection Lab</a> <a href="https://docs.google.com/document/d/1bRblTCBpP8G_pEB_-ZCI-QjQUnbG9EW9/view">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://docs.google.com/document/d/1bRblTCBpP8G_pEB_-ZCI-QjQUnbG9EW9/view">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
