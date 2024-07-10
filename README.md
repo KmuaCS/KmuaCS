@@ -26,9 +26,13 @@ Through rigorous academic and practical learning, I have developed proficient kn
 <a href="https://www.elastic.co/">
   <img src="elastic_logo.png" alt="Elastic Logo" width="200" height="50">
 </a>
+
+
 ## Certifications
 <a href="https://www.comptia.org">
   <img src="https://via.placeholder.com/300x150" alt="CompTIA Logo">
 </a>
+
+
 ## Projects
 - Detection Lab
