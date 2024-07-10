@@ -20,7 +20,7 @@ Through rigorous academic and practical learning, I have developed proficient kn
 
 ### Network
 <div>
-    <a href="https://ubuntu.com"> <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" /> </a>
+    <a href="https://ubuntu.com"> <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" /> 
     <a href="https://www.wireshark.org/"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" /> </a>
 </div>
 
