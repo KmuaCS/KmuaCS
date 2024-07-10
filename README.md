@@ -30,7 +30,9 @@ Through rigorous academic and practical learning, I have developed proficient kn
 
 ## Certifications
 
-<img src="https://www.credly.com/earner/dashboard" alt="CompTIA Security+ Badge" />
+<a href="https://www.credly.com/earner/dashboard">
+  <img src="https://www.credly.com/assets/credly-logo.svg" alt="Credly - Your digital credential management dashboard" width="200" />
+</a>
 
 
 ## Projects
