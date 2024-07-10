@@ -7,7 +7,7 @@ I am an undergraduate in cybersecurity, driven and passionate about protecting d
 
 ## Objective
 
-My journey has led to proficient academic knowledge and technical skills in Security Information and Event Management (SIEM), Network Protocols and Log Analysis. I am eager to leverage this expertise as a security analyst to identify and mitigate threats for an organization's cybersecurity efforts.
+Through rigorous academic and practical learning, I have developed proficient knowledge and technical skills in the critical domains of Security Information and Event Management (SIEM), Network Protocols, and Log Analysis. I am eager to leverage this expertise as a security analyst to identify and mitigate threats for an organization's cybersecurity efforts.
 
 ## Skills
 
