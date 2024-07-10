@@ -20,7 +20,7 @@ Through rigorous academic and practical learning, I have developed proficient kn
 
 ### Network
 <div>
-    [![Visit Wireshark](https://img.shields.io/badge/Visit-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
+   [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
 
   [![Visit Ubuntu](https://img.shields.io/badge/Visit-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
