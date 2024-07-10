@@ -29,6 +29,7 @@ Through rigorous academic and practical learning, I have developed proficient kn
 
 
 ## Certifications
+
 <a href="https://www.comptia.org/">
   <img src="https://via.placeholder.com/150x50" alt="CompTIA">
 </a>
