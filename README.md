@@ -21,7 +21,7 @@ Through rigorous academic and practical learning, I have developed proficient kn
 ### Network
 <div>
     <a href="https://ubuntu.com/"> <img src="https://img.shields.io/badge/-Ubuntu-1679A7?&style=for-the-badge&logo=Ubuntu&logoColor=white" /> </a>
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+   img src="https://img.shields.io/badge/-Elastic-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
