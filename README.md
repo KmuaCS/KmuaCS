@@ -3,26 +3,18 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am an undergraduate in cybersecurity, driven and passionate about protecting data and information and working with technology to analyze and solve complex problems. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey has led to proficient academic knowledge and technical skills in network security monitoring, vulnerability assessment, and incident response, and I am eager to apply these knowledge and skills in real-time security event analysis, aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
+My journey has led to proficient academic knowledge and technical skills in Security Information and Event Management (SIEM), Network Protocols and Log Analysis. I am eager to leverage this expertise as a security analyst to identify and mitigate threats for an organization's cybersecurity efforts.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://docs.google.com/document/d/1bRblTCBpP8G_pEB_-ZCI-QjQUnbG9EW9/view">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://docs.google.com/document/d/1IJD14GU887f9nTZcFNfTPAqpqbvuhYexpf1_AdUH6Cc/edit">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
