@@ -30,7 +30,8 @@ Through rigorous academic and practical learning, I have developed proficient kn
 
 ## Certifications
 
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://www.credly.com/p/assertions/b9a8412e-1034-4069-af08-42fd3f1bb4e3/mini.png" alt="Credly Badge" />
+
 
 ## Projects
 - Detection Lab
