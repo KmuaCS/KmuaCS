@@ -14,7 +14,7 @@ Through rigorous academic and practical learning, I have developed proficient kn
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://docs.google.com/document/d/1bRblTCBpP8G_pEB_-ZCI-QjQUnbG9EW9">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://docs.google.com/document/d/1bRblTCBpP8G_pEB_-ZCI-QjQUnbG9EW9">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://docs.google.com/document/d/1bRblTCBpP8G_pEB_-ZCI-QjQUnbG9EW9/edit">Detection Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
