@@ -24,7 +24,7 @@ Through rigorous academic and practical learning, I have developed proficient kn
 
 ### SIEM
 <a href="https://www.elastic.co/">
-  <img src="elastic_logo.png" alt="Elastic Logo" width="200" height="50">
+  <img src="https://www.elastic.co/static-res/images/elastic-logo.svg" alt="Elastic - The Search AI Company" width="200" />
 </a>
 
 
