@@ -16,19 +16,11 @@ Through rigorous academic and practical learning, I have developed proficient kn
 | SIEM Implementation and Log Analysis          | <a href="https://docs.google.com/document/d/1bRblTCBpP8G_pEB_-ZCI-QjQUnbG9EW9">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://docs.google.com/document/d/1IJD14GU887f9nTZcFNfTPAqpqbvuhYexpf1_AdUH6Cc">Detection Lab</a> |
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
-    <a href="https://ubuntu.com">
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-</a>
-
-  
-   <a href="https://www.wireshark.org/">
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
-</a>
-</div>
+    <a href="https://ubuntu.com"> <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" /> </a>
+    <a href="https://www.wireshark.org/"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" /> </a> </div>
 
 ### Endpoint
 <div>
