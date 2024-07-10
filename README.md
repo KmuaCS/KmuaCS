@@ -30,11 +30,9 @@ Through rigorous academic and practical learning, I have developed proficient kn
 
 ## Certifications
 
-<div class="credly-dashboard-container">
-  <a href="https://www.credly.com/earner/dashboard" class="credly-dashboard-logo">
-    <img src="https://www.credly.com/assets/credly-logo.svg" alt="Credly - Your digital credential management dashboard" />
-  </a>
-</div>
+<a href="https://www.credly.com/earner/dashboard">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Credly - Your digital credential management dashboard" />
+</a>
 
 ## Projects
 - Detection Lab
