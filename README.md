@@ -30,9 +30,7 @@ Through rigorous academic and practical learning, I have developed proficient kn
 
 ## Certifications
 
-<a href="https://www.comptia.org/">
-  <img src="https://via.placeholder.com/150x50" alt="CompTIA">
-</a>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ## Projects
 - Detection Lab
