@@ -35,4 +35,4 @@ Through rigorous academic and practical learning, I have developed proficient kn
 </a>
 
 ## Projects
-- Detection Lab
+- Detection Labs
