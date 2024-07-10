@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I am an undergraduate in cybersecurity, driven and passionate about protecting data and information and working with technology to analyze and solve complex problems. 
+I am an undergraduate studying cybersecurity.I am driven and passionate about protecting data and information and I enjoy working with technology to analyze and solve complex problems. 
 
 ## Objective
 
