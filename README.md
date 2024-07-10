@@ -30,7 +30,8 @@ Through rigorous academic and practical learning, I have developed proficient kn
 
 ## Certifications
 
-<img src="https://images.credly.com/size/340x340/images/b9a8412e-1034-4069-af08-42fd3f1bb4e3/CompTIA-Security-badge.png" alt="CompTIA Security+ Badge" />
+![CompTIA Security+ Badge](https://images.credly.com/size/340x340/images/b9a8412e-1034-4069-af08-42fd3f1bb4e3/CompTIA-Security-badge.png)
+
 
 
 
