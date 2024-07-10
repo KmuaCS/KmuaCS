@@ -30,8 +30,7 @@ Through rigorous academic and practical learning, I have developed proficient kn
 
 ## Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b9a8412e-1034-4069-af08-42fd3f1bb4e3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+<img src="https://www.credly.com/earner/dashboard" alt="CompTIA Security+ Badge" />
 
 
 ## Projects
