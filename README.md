@@ -30,9 +30,11 @@ Through rigorous academic and practical learning, I have developed proficient kn
 
 ## Certifications
 
-<a href="https://www.credly.com/earner/dashboard">
-  <img src="https://www.credly.com/assets/credly-logo.svg" alt="Credly - Your digital credential management dashboard" width="200" />
-</a>
+<div class="credly-dashboard-container">
+  <a href="https://www.credly.com/earner/dashboard" class="credly-dashboard-logo">
+    <img src="https://www.credly.com/assets/credly-logo.svg" alt="Credly - Your digital credential management dashboard" />
+  </a>
+</div>
 
 ## Projects
 - Detection Lab
