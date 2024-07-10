@@ -33,6 +33,5 @@ Through rigorous academic and practical learning, I have developed proficient kn
   <img src="https://via.placeholder.com/150x50" alt="CompTIA">
 </a>
 
-
 ## Projects
 - Detection Lab
