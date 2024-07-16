@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I am a cybersecurity junior driven and passionate in protecting data and information. I enjoy working with technology to analyze and solve complex problems. 
+I am a cybersecurity expert driven and passionate in protecting data and information. I enjoy working with technology to analyze and solve complex problems. 
 
 ## Objective
 
